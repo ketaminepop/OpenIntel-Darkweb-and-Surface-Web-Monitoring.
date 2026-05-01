@@ -227,8 +227,8 @@ Sources: AlienVault OTX · URLhaus · MalwareBazaar · ThreatFox
 **Naman Vaishnav**
 Cybersecurity Researcher | CEH Certified | TryHackMe Top 3% | B.Tech IT — CHARUSAT University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/naman-vaishnav)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/namvaishnav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ketaminepop)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/ketaminepop)
 [![Email](https://img.shields.io/badge/Email-vaishnavnaman150@gmail.com-EA4335?style=flat&logo=gmail)](mailto:vaishnavnaman150@gmail.com)
 
 ---
