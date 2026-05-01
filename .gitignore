@@ -1,0 +1,63 @@
+# ─── Environment & Secrets ────────────────────────────────
+.env
+*.env
+.env.local
+.env.production
+
+# ─── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ─── Virtual Environments ─────────────────────────────────
+venv/
+env/
+ENV/
+.venv/
+.env/
+virtualenv/
+
+# ─── Streamlit ────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ─── OS Files ─────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─── IDE ──────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── Logs & Reports ───────────────────────────────────────
+*.log
+logs/
+intel_reports/
+*.md.bak
+
+# ─── Tor / Proxy ──────────────────────────────────────────
+torrc
+tor_data/
+
+# ─── Test & Coverage ──────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
